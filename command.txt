@@ -5,3 +5,11 @@ git remote -v
 git pull 
 git fetch
 git push
+git add
+git commit -m " Cooment "
+git log
+git log --oneline
+git log --oneline --pretty
+git config --global user.name
+git config --global user.email
+git rest
